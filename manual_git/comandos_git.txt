@@ -18,6 +18,10 @@
 
 .gitignore Es un archivo reservado de git que tenemos que crear si queremos decirle a git los archivos que no vamos a utilizar y así decida ignorarlos.
 Escribe dentro de el archivo .gitignore los nombres de los archivos que desees ignorar.
-Nota: Las carpetas se escriben solas y los archivos con su terminación.﻿
+Nota: Las carpetas se escriben solas y los archivos con su terminación./
+
+* git push origin --delete "archivo" ; borrar rama en nube
+* git branch -D "archivo" ; borra rama en local (PC)
+
  
 
