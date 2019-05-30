@@ -6,8 +6,7 @@
                 "/home/pepe/arduino-1.8.9/tools/**",
                 "/home/pepe/arduino-1.8.9/hardware/arduino/avr/**",
                 "/home/pepe/arduino-1.8.9/hardware/tools/avr/avr/include/avr/**",
-                "/home/pepe/arduino-1.8.9/hardware/tools/avr/avr/include"
-            ],
+              .            ],
             "forcedInclude": [
                 "/home/pepe/arduino-1.8.9/hardware/arduino/avr/cores/arduino/Arduino.h"
             ],
